@@ -17,5 +17,11 @@
 	<ItemGroup>
 	  <Folder Include="wwwroot\media\products\" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Content Update="Views\Shared\Components\Categories\Default.cshtml">
+	    <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+	    <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+	  </Content>
+	</ItemGroup>
 
 </Project>
