@@ -20,7 +20,7 @@ namespace ShoppingCart.Infrastructure.Components
                 smallCartVM = new()
                 {
                     NumberOfItems = cart.Sum(x => x.Quantity),
-                    TotalAmount = cart.Sum(x => x.Price)
+                    TotalAmount = cart.Sum(x => x.Quantity * x.Price)
                 };
             }
 
