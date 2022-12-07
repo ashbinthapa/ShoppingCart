@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wvxyjE+RDbCUuP9lAQ88453I05llfLW0o110hp5yt9I=",
+  "Hash": "tBZmjbwJaTtn7IqWmYA7QTQm+Ha2sFSLYRkHbBFgwY0=",
   "Source": "ShoppingCart",
   "BasePath": "_content/ShoppingCart",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "D:\\.net\\ShoppingCart\\wwwroot\\media\\products\\5eca08b4-8ad8-4d44-9867-78b6ab855cfc_strawberry.jpg",
+      "SourceId": "ShoppingCart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\ShoppingCart\\wwwroot\\",
+      "BasePath": "_content/ShoppingCart",
+      "RelativePath": "media/products/5eca08b4-8ad8-4d44-9867-78b6ab855cfc_strawberry.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\5eca08b4-8ad8-4d44-9867-78b6ab855cfc_strawberry.jpg"
+    },
+    {
       "Identity": "D:\\.net\\ShoppingCart\\wwwroot\\media\\products\\6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg",
       "SourceId": "ShoppingCart",
       "SourceType": "Discovered",
@@ -1086,23 +1103,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\products\\6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg"
-    },
-    {
-      "Identity": "D:\\.net\\ShoppingCart\\wwwroot\\media\\products\\9703eb03-8fcd-42f8-badd-afac38203a0e_strawberry.jpg",
-      "SourceId": "ShoppingCart",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\.net\\ShoppingCart\\wwwroot\\",
-      "BasePath": "_content/ShoppingCart",
-      "RelativePath": "media/products/9703eb03-8fcd-42f8-badd-afac38203a0e_strawberry.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\9703eb03-8fcd-42f8-badd-afac38203a0e_strawberry.jpg"
     },
     {
       "Identity": "D:\\.net\\ShoppingCart\\wwwroot\\media\\products\\apples.jpg",
